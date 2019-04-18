@@ -17,7 +17,7 @@ to run:
 apan.jpg' 
 - For the video code you must use the command 'python detect_edges_video.py --edge-detector hed_model --input images/test.mp4'
 *there are some images and videos on the images folder, but is best to use your own after*
-- If you use 'python detect_edges_video.py --edge-detector hed_model' only you will automatically use the webcam to capture the frames.
+- If you use 'python detect_edges_video.py --edge-detector hed_model' only, you will automatically use the webcam to capture the frames.
 
 References:
 - Holistically-Nested Edge Detection with OpenCV and Deep Learning, Available at: https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning/ 
