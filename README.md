@@ -12,10 +12,10 @@ To use:
 
 to run:
 - There are two .py files on the project, one for the use on images and another to uso on video.
-- You must open the terminal and enter the 'holistically-nested-edge-detection' folder to run
-- For the image code you must use 'python detect_edges_image.py --edge-detector hed_model --image images/j
+- You must open the terminal and enter the 'holistically-nested-edge-detection' folder with 'cd holistically-nested-edge-detectio' command to be able to run.
+- For the image code you must use the command 'python detect_edges_image.py --edge-detector hed_model --image images/j
 apan.jpg' 
-- For the video code you must use 'python detect_edges_video.py --edge-detector hed_model --input images/test.mp4
+- For the video code you must use the command 'python detect_edges_video.py --edge-detector hed_model --input images/test.mp4'
 *there are some images and videos on the images folder, but is best to use your own after*
 - If you use 'python detect_edges_video.py --edge-detector hed_model' only you will automatically use the webcam to capture the frames.
 
