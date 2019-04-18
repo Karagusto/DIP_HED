@@ -12,7 +12,7 @@ to run:
 - For the image code you must use 'python detect_edges_image.py --edge-detector hed_model --image images/j
 apan.jpg' 
 - For the video code you must use 'python detect_edges_video.py --edge-detector hed_model --input images/test.mp4
-*there are some images on the images folder, but is best to use your images after*
+*there are some images and videos on the images folder, but is best to use your own after*
 - If you use 'python detect_edges_video.py --edge-detector hed_model' only you will automatically use the webcam to capture the frames.
 
 References:
