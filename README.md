@@ -1,6 +1,10 @@
 # DIP_HED
 Comparisson Edge Detection between Canny and Holistic-Nested(Comparação entre Detecção de Bordas Canny e Holistic-Nested)
 
+Student: Ricardo Augusto Fragoso Omena Lopes
+ID: 12111638
+
+
 To use:
 - Download Pycharm(https://www.jetbrains.com/pycharm/) and install it.
 - Download the project 'HED.rar' at(https://mega.nz/#!2c1XTQQY!1yeJXKdMvwlKmd8AdmUT7y9t21TKBvnKL_hIY2xoSu8) extract and  set on the path of pycharm 'File' -> 'Open Project'
