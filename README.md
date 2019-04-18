@@ -3,7 +3,7 @@ Comparisson Edge Detection between Canny and Holistic-Nested(Comparação entre 
 
 To use:
 - Download Pycharm(https://www.jetbrains.com/pycharm/) and install it.
-- Now you must download the github project and set on the path 'File' -> 'Open Project'
+- Download the project 'HED.rar' at(https://mega.nz/#!2c1XTQQY!1yeJXKdMvwlKmd8AdmUT7y9t21TKBvnKL_hIY2xoSu8) and  set on the path 'File' -> 'Open Project'
 - When you open the project you must go to 'file' -> 'settings' and under 'Project:' -> 'project interpreter' click on the '+' button on the right to install two packages: 'python-opencv' and 'imutils'.
 
 to run:
